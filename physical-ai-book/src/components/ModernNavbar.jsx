@@ -82,7 +82,7 @@ const ModernNavbar = () => {
                   Blog
                 </a> */}
 
-                <a href="https://github.com/physical-ai/physical-ai-book" target="_blank" rel="noopener noreferrer" className="navbar-link">
+                <a href="https://github.com/Tahabaig044/hackathon-physical-ai-humanoid-book" target="_blank" rel="noopener noreferrer" className="navbar-link">
                   <i className="icon-github"></i>
                   GitHub
                 </a>

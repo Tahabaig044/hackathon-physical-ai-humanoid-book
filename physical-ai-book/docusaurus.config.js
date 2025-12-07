@@ -142,9 +142,9 @@ const config = {
               },
             ],
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/physical-ai/physical-ai-book',
+            href: 'https://github.com/Tahabaig044/hackathon-physical-ai-humanoid-book',
             label: 'GitHub',
             position: 'right',
           },
@@ -184,7 +184,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/physical-ai/physical-ai-book',
+                href: 'https://github.com/Tahabaig044/hackathon-physical-ai-humanoid-book',
               },
             ],
           },

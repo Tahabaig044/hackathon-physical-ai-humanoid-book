@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command:*)",
+      "Bash(.specify/scripts/powershell/check-prerequisites.ps1:*)",
+      "Bash(mkdir -p physical-ai-/docs/module-5-ethics-safety)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
